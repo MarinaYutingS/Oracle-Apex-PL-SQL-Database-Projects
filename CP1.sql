@@ -1,5 +1,4 @@
-/*CP1 P0308 Loan Payment Schedule
-c0842810, Yuting Sha*/
+
 
 DECLARE
     loan_rec            gl_loans%ROWTYPE;
